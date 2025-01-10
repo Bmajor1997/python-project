@@ -1,4 +1,4 @@
-# python-project
+# Python-project
 
 <h2>Directions:</h2>
 In this activity, you will create a new portfolio document to demonstrate your experience using Python to develop algorithms that involve opening files and parsing their contents.
